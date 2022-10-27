@@ -1,0 +1,96 @@
+
+[general]
+	#Puts all the added items into a new Every Compat tab instead of their own mod tabs. Be warned that if disabled it could cause some issue with some mods that have custom tabs
+	creative_tab = true
+	#Allows the mod to try to remap and convert other blocks and items from other compat mods that have been uninstalled from one world. This was made so one can uninstall such mods seamlessly having their blocks converted into Evety Compat counterparts
+	remap_other_mods = false
+	#Clears out and remaps all blocks registered by this mod belonging to uninstalled wood types to air or oak wood
+	remap_self = true
+	#Makes dynamic assets that are generated depend on loaded resource packs. Turn off to make them just use vanilla assets
+	assets_depend_on_loaded_packs = true
+
+[leaves_type]
+
+	[leaves_type.minecraft]
+		oak = true
+		spruce = true
+		birch = true
+		jungle = true
+		acacia = true
+		dark_oak = true
+		azalea = true
+		flowering_azalea = true
+
+	[leaves_type.ecologics]
+		coconut = true
+		walnut = true
+
+	[leaves_type.biomemakeover]
+		blighted_balsa = true
+		willow = true
+		swamp_cypress = true
+		ancient_oak = true
+
+	[leaves_type.biomesoplenty]
+		fir = true
+		redwood = true
+		mahogany = true
+		jacaranda = true
+		palm = true
+		willow = true
+		dead = true
+		magic = true
+		umbran = true
+		hellbark = true
+		origin = true
+		flowering_oak = true
+		rainbow_birch = true
+		yellow_autumn = true
+		orange_autumn = true
+		maple = true
+		white_cherry = true
+		pink_cherry = true
+
+	[leaves_type.ars_nouveau]
+		blue_archwood = true
+		red_archwood = true
+		green_archwood = true
+		purple_archwood = true
+
+[wood_type]
+
+	[wood_type.minecraft]
+		oak = true
+		spruce = true
+		birch = true
+		jungle = true
+		acacia = true
+		dark_oak = true
+		crimson = true
+		warped = true
+
+	[wood_type.ecologics]
+		flowering_azalea = true
+		coconut = true
+		walnut = true
+		azalea = true
+
+	[wood_type.biomemakeover]
+		blighted_balsa = true
+		willow = true
+		swamp_cypress = true
+		ancient_oak = true
+
+	[wood_type.biomesoplenty]
+		fir = true
+		redwood = true
+		cherry = true
+		mahogany = true
+		jacaranda = true
+		palm = true
+		willow = true
+		dead = true
+		magic = true
+		umbran = true
+		hellbark = true
+

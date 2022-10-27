@@ -1,0 +1,14 @@
+name = "Additional Additions"
+filename = "additionaladditions-4.0.5.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/R4TvILfj/versions/4.0.5f/additionaladditions-4.0.5.jar"
+hash-format = "sha512"
+hash = "d1a822658a2cb932e2a7987bcf76ab060380560a4000a427a4bea6e7a4db5d22b332a1dbd989dc3601d8eae81aea7dcd3b67d6a0d35335c34a4aa624190fafcb"
+
+[update]
+[update.modrinth]
+mod-id = "R4TvILfj"
+version = "NCMqaI5l"
