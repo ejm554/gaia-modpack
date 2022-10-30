@@ -7,7 +7,7 @@
   "clover_patch_enabled": true,
   "cold_desert_enabled": true,
   "coniferous_forest_enabled": true,
-  "crag_enabled": true,
+  "crag_enabled": false,
   "crystalline_chasm_enabled": true,
   "dead_forest_enabled": true,
   "dryland_enabled": true,
