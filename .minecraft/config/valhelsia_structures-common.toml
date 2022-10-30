@@ -13,7 +13,7 @@
 		#Spawn Chance [default: 0.5]. 
 		# 1.0 = generate the structure always, 0.0 = never generate the structure
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.5
+		spawn_chance = 0.25
 		#Spacing (in chunks) [default: 37]
 		#Range: 0 ~ 200
 		spacing = 37
@@ -25,7 +25,7 @@
 		#Spawn Chance [default: 0.6]. 
 		# 1.0 = generate the structure always, 0.0 = never generate the structure
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.6
+		spawn_chance = 0.3
 		#Spacing (in chunks) [default: 33]
 		#Range: 0 ~ 200
 		spacing = 33
@@ -37,7 +37,7 @@
 		#Spawn Chance [default: 0.7]. 
 		# 1.0 = generate the structure always, 0.0 = never generate the structure
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.7
+		spawn_chance = 0.35
 		#Spacing (in chunks) [default: 28]
 		#Range: 0 ~ 200
 		spacing = 28
@@ -49,7 +49,7 @@
 		#Spawn Chance [default: 0.7]. 
 		# 1.0 = generate the structure always, 0.0 = never generate the structure
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.7
+		spawn_chance = 0.35
 		#Spacing (in chunks) [default: 28]
 		#Range: 0 ~ 200
 		spacing = 28
@@ -61,7 +61,7 @@
 		#Spawn Chance [default: 0.7]. 
 		# 1.0 = generate the structure always, 0.0 = never generate the structure
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.7
+		spawn_chance = 0.35
 		#Spacing (in chunks) [default: 28]
 		#Range: 0 ~ 200
 		spacing = 28
@@ -73,7 +73,7 @@
 		#Spawn Chance [default: 0.7]. 
 		# 1.0 = generate the structure always, 0.0 = never generate the structure
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.7
+		spawn_chance = 0.35
 		#Spacing (in chunks) [default: 28]
 		#Range: 0 ~ 200
 		spacing = 28
@@ -85,7 +85,7 @@
 		#Spawn Chance [default: 0.8]. 
 		# 1.0 = generate the structure always, 0.0 = never generate the structure
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.8
+		spawn_chance = 0.4
 		#Spacing (in chunks) [default: 23]
 		#Range: 0 ~ 200
 		spacing = 23
@@ -97,7 +97,7 @@
 		#Spawn Chance [default: 0.85]. 
 		# 1.0 = generate the structure always, 0.0 = never generate the structure
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.85
+		spawn_chance = 0.425
 		#Spacing (in chunks) [default: 23]
 		#Range: 0 ~ 200
 		spacing = 23
@@ -109,7 +109,7 @@
 		#Spawn Chance [default: 0.7]. 
 		# 1.0 = generate the structure always, 0.0 = never generate the structure
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.7
+		spawn_chance = 0.35
 		#Spacing (in chunks) [default: 28]
 		#Range: 0 ~ 200
 		spacing = 28
