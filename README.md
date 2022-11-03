@@ -1,3 +1,3 @@
-# minor-minors-5
+# Gaia
 
-A modpack for the 5th season of Minor Miners
+A description for this modpack has yet to be written. 
