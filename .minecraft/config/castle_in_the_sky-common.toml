@@ -6,7 +6,7 @@
 	castle_height = 174
 	#the minimum distance between castle and 0,0
 	#Range: > 0
-	castle_spawn_proof = 10000
+	castle_spawn_proof = 1024
 	#Levitation can only be used when the user is bigger than this percent of spawn_proof. This is to prevent lag.
 	#Range: 0.0 ~ 1.7976931348623157E308
 	levitation_stone_use_percent = 0.8
