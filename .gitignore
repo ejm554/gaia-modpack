@@ -1,2 +1,2 @@
-# ignore ALL .zip files
+# ignore ALL .zip files, such as zipped modpacks
 *.zip
