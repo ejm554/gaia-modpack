@@ -1,2 +1,2 @@
-# ignore ALL .zip files, such as zipped modpacks
-*.zip
+# ignore files that appear to be zipped modpacks
+Gaia_1*.zip
