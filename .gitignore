@@ -1,2 +1,3 @@
 # ignore files that appear to be zipped modpacks
-Gaia_*.zip
+# Gaia_*.zip
+.zipped-modpacks
